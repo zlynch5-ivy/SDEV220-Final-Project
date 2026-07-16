@@ -1,0 +1,33 @@
+body {background: color: #FFFFFF;
+    margin: 0;
+}
+
+#logo {text-align: center;
+    color: #FFFFFF;
+    background-color: #121212;
+    border-bottom: 2px #D9B100 solid;
+    padding-top: 0.1em;
+}
+
+#navig {float: left;
+    display: inline-flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    max-width: 8%;
+    padding: 1em 1.5em 1em 1.5em;
+    background-color: azure;
+    border: 2px solid #90c7e3;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+#foodSelection{
+    margin: 8px;
+}
+
+#return {background-color: grey;
+    color: white;
+    margin-top: 0;
+    padding-left: 8px;
+}
