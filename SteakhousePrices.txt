@@ -1,0 +1,53 @@
+--------BURGERS--------
+
+All-American: $8.99
+Bacon Burger: $9.99
+BBQ Chicken: $9.99
+Mushroom Jack: $8.59
+Pulled Pork: $9.59
+Smokehouse: $11.99
+
+--------CHICKEN--------
+
+Chicken Critters: $6.99
+Country Chicken: $7.99
+Grilled Chicken: $5.59
+Herb Chicken: $6.59
+Portobello Chicken: $7.59
+Smothered Chicken: $7.99
+
+--------DRINKS--------
+
+20 Oz. Drink: $2.99
+20 Oz. Iced Tea: $1.99
+20. Oz. Lemonade: $2.59
+Bottled Water: $1.59
+Mix & Match: $5.99
+
+--------SIDES--------
+
+Mac and Cheese: $2.99
+Mushrooms: $3.99
+Red Chili (Cup): $3.29
+Salad: $2.19
+Side Ribs: $4.19
+Vegetables: $1.59
+
+--------STARTERS--------
+
+Buffalo Wings: $5.99
+Cactus Blossom: $7.99
+Cheese Fries: $6.59
+Combo Appetizer: $8.29
+Red Chili (Bowl): $6.79
+Snake Bites: $5.29
+
+--------STEAKS--------
+
+Bone Ribeye: $13.99
+Kabob: $9.99
+Porterhouse T-bone: $14.99
+Prime Rib: $11.59
+Roadkill: $8.99
+Sirloin: $11.39
+
